@@ -1,3 +1,4 @@
-This my personal portfolio in making
-my name is adarsh kushwaha
-i have completed my ug in 2022 from mjpru bareilly and currently pursuing M.Tech from IIIT Allahabad
+# student portfolio
+
+hey welcome to my portfolio, it's coming up tommorow when i learn html and css with tanay pratap on youtube.
+ 
